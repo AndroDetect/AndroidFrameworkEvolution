@@ -1,3 +1,0 @@
-# AndroidFrameworkEvolution
-# AndroidFrameworkEvolution
-# AndroidFrameworkEvolution
