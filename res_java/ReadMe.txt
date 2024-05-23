@@ -1,0 +1,1 @@
+Resources obtained from Java code.

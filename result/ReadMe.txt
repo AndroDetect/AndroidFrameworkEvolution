@@ -1,0 +1,1 @@
+The "result" during the process, including extracted information from resources and merged information.
