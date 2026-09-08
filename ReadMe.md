@@ -34,6 +34,6 @@ If you find **Func** useful in your research, please consider citing our paper:
   pages={56},
   year={2026},
   publisher={Springer}
-  doi={10.1109/TSE.2026.3725737}
+  doi={10.1007/s10664-025-10747-6}
 }
 ```
