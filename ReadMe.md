@@ -19,3 +19,20 @@
 /res_java------Resources obtained from Java code
 /res_csv------The final result includes both API names and Func names
 /Func_result------Bidirectional mapping between Func and API obtained
+
+## Citation
+
+If you find **Func** useful in your research, please consider citing our paper:
+
+```bibtex
+@article{yu2026func,
+  title={Func: Reducing the Impact of Android Framework Evolution on Malware Detection},
+  author={Yu, Hailong and Wang, Tiantian and Shar, Lwin Khin and Li, Hanmeng and Lo, David},
+  journal={Empirical Software Engineering},
+  volume={31},
+  number={3},
+  pages={56},
+  year={2026},
+  publisher={Springer}
+}
+```
